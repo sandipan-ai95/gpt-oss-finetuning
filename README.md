@@ -1,6 +1,6 @@
 # GPT-OSS-20B Medical Reasoning Chatbot
 
-This repository contains a fine-tuned version of `openai/gpt-oss-20b`, adapted to provide medically grounded answers in response to user queries. The model is designed to simulate **clinical reasoning** based on natural language questions, especially useful for educational, triage, and general health information purposes.
+This repository contains a fine-tuned version of `openai/gpt-oss-20b`, adapted to provide medically grounded answers in response to user queries. The model is designed to simulate **clinical reasoning** and **multilanguage support** based on natural language questions, especially useful for educational, triage, and general health information and language translation and understanding purposes.
 
 ---
 
